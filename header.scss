@@ -1,0 +1,28 @@
+header {
+  background-color: dodgerblue;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+
+
+  p {
+    color: aliceblue;
+    font-weight: 400;
+    font-size: 1.8rem;
+    height:20px;
+    margin-top: 15px;
+
+   
+  }
+}
+ul {
+    list-style-type: none;
+    display: flex;
+
+    li {
+      font-size: 1rem;
+     margin-left: 15px;
+     margin-top: 15px;
+    }
+  }
